@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Trick or Trick",
+  "base_artist": "aespa",
+  "createdAt": "2026-02-11T06:27:07.470493Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Trick or Trick",
+      "artist": "aespa",
+      "has_synced": false,
+      "path": "select/01_Trick_or_Trick_aespa.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Trick or Trick",
+      "artist": "aespa",
+      "has_synced": true,
+      "path": "select/02_Trick_or_Trick_aespa.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Trick or Trick",
+      "artist": "aespa (에스파)",
+      "has_synced": true,
+      "path": "select/03_Trick_or_Trick_aespa_(에스파).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "aespa 'Trick or Trick' (Official Audio)",
+      "artist": "aespa",
+      "has_synced": true,
+      "path": "select/04_aespa_'Trick_or_Trick'_(Official_Audio)_aespa.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Trick or Trick",
+      "artist": "aespa",
+      "has_synced": true,
+      "path": "select/05_Trick_or_Trick_aespa.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Trick Or Trick",
+      "artist": "aespa",
+      "has_synced": true,
+      "path": "select/06_Trick_Or_Trick_aespa.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Trick or Trick",
+      "artist": "aespa",
+      "has_synced": true,
+      "path": "select/07_Trick_or_Trick_aespa.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Trick or Trick",
+      "artist": "aespa",
+      "has_synced": false,
+      "path": "select/pl_01_Trick_or_Trick_aespa.txt"
+    }
+  ]
+}
